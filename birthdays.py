@@ -1,0 +1,11 @@
+# ask for birthday info 5 times
+print ("what is the name of freind 1?")
+print ("what is the birthday of freind 1?")
+print ("what is the name of freind 2?")
+print ("what is the birthday of freind 2?")
+print ("what is the name of freind 3?")
+print ("what is birthday of freind 3")
+print ("what is the name of freind 4")
+print ("what is the birthday of freind 4")
+print ("what is the name of freind 5")
+print ("what is the birthday of freind 5")
